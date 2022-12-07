@@ -3,9 +3,6 @@
 # Python program that:
 # demonstrates how to return the weighted average of all integers tuple
 # (<score>, <weight>)
-#
-# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
 # -----------------------------------------------------------
 
 

@@ -2,9 +2,6 @@
 # -----------------------------------------------------------
 # Python program that:
 # demonstrates how to return a key with the biggest integer value
-#
-# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
 # -----------------------------------------------------------
 
 

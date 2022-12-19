@@ -4,8 +4,6 @@
 # demonstrates how to print x elements of a list.
 # demonstrates how to use a try ... except for exception handling
 #
-# (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
-# email igbinijesusamuel@gmail.com
 # -----------------------------------------------------------
 
 
